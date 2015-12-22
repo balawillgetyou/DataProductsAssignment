@@ -1,0 +1,4 @@
+Description  
+This application takes user input on dimensions of a flower, runs it through a Random Forest classifier, determines its species and prints out the species names.  
+Please give the application a couple of moments to respond. Waiting for a bit after accessing the shinyapps.io URL shows the species as "versicolor" based on default position of the sliders, which are at the mean values of the data set.  
+Bumping up the Petal Length alone, to say 5.8, will change the species to "virginica". From here, reducing the Petal width alone to 0.6 will change species to "setosa". Please feel free to test any of the sliders.
